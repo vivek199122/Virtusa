@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Web sampleTest" duration-ms="12370" started-at="2021-06-29T06:04:58Z" finished-at="2021-06-29T06:05:11Z">
+    <groups>
+    </groups>
+    <test name="basicTest" duration-ms="12370" started-at="2021-06-29T06:04:58Z" finished-at="2021-06-29T06:05:11Z">
+      <class name="com.google.search.SearchEngine.Test.GoogleSearchTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.google.search.SearchEngine.Test.GoogleSearchTest@47f6473]" name="beforeSuite" is-config="true" duration-ms="129" started-at="2021-06-29T06:04:58Z" finished-at="2021-06-29T06:04:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.google.search.SearchEngine.Test.GoogleSearchTest@47f6473]" name="beforeTest" is-config="true" duration-ms="2936" started-at="2021-06-29T06:04:58Z" finished-at="2021-06-29T06:05:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeMethod(java.lang.reflect.Method)[pri:0, instance:com.google.search.SearchEngine.Test.GoogleSearchTest@47f6473]" name="beforeMethod" is-config="true" duration-ms="10" started-at="2021-06-29T06:05:01Z" finished-at="2021-06-29T06:05:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void com.google.search.SearchEngine.Test.GoogleSearchTest.googleSearchTest() throws java.io.IOException,java.lang.InterruptedException]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="googleSearchTest()[pri:0, instance:com.google.search.SearchEngine.Test.GoogleSearchTest@47f6473]" name="googleSearchTest" duration-ms="9413" started-at="2021-06-29T06:05:01Z" finished-at="2021-06-29T06:05:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleSearchTest -->
+        <test-method status="PASS" signature="afterMethod(org.testng.ITestResult)[pri:0, instance:com.google.search.SearchEngine.Test.GoogleSearchTest@47f6473]" name="afterMethod" is-config="true" duration-ms="1" started-at="2021-06-29T06:05:11Z" finished-at="2021-06-29T06:05:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=googleSearchTest status=SUCCESS method=GoogleSearchTest.googleSearchTest()[pri:0, instance:com.google.search.SearchEngine.Test.GoogleSearchTest@47f6473] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.google.search.SearchEngine.Test.GoogleSearchTest@47f6473]" name="afterTest" is-config="true" duration-ms="0" started-at="2021-06-29T06:05:11Z" finished-at="2021-06-29T06:05:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.google.search.SearchEngine.Test.GoogleSearchTest@47f6473]" name="afterSuite" is-config="true" duration-ms="285" started-at="2021-06-29T06:05:16Z" finished-at="2021-06-29T06:05:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.google.search.SearchEngine.Test.GoogleSearchTest -->
+    </test> <!-- basicTest -->
+  </suite> <!-- Web sampleTest -->
+</testng-results>

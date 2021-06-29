@@ -1,0 +1,32 @@
+10:56:36,407  INFO WebDriverManager:575 - Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+10:56:36,419  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as /Users/vivek/.m2/repository/webdriver/chromedriver/mac64/91.0.4472.101/chromedriver
+10:57:58,248  INFO WebDriverManager:575 - Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+10:57:58,260  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as /Users/vivek/.m2/repository/webdriver/chromedriver/mac64/91.0.4472.101/chromedriver
+11:02:06,331  INFO WebDriverManager:575 - Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+11:02:06,343  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as /Users/vivek/.m2/repository/webdriver/chromedriver/mac64/91.0.4472.101/chromedriver
+11:02:08,942  INFO GoogleHomePage:27 - Serach result entered.
+11:02:19,634  INFO GoogleHomePage:35 - Clicked on search button.
+11:03:34,602  INFO WebDriverManager:575 - Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+11:03:34,614  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as /Users/vivek/.m2/repository/webdriver/chromedriver/mac64/91.0.4472.101/chromedriver
+11:03:37,412  INFO GoogleHomePage:27 - Serach result entered.
+11:03:48,013  INFO GoogleHomePage:35 - Clicked on search button.
+11:13:41,716  INFO WebDriverManager:575 - Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+11:13:41,728  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as /Users/vivek/.m2/repository/webdriver/chromedriver/mac64/91.0.4472.101/chromedriver
+11:13:44,456  INFO GoogleHomePage:27 - Serach result entered.
+11:13:54,664  INFO GoogleHomePage:35 - Clicked on search button.
+11:30:06,003  INFO WebDriverManager:575 - Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+11:30:06,016  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as /Users/vivek/.m2/repository/webdriver/chromedriver/mac64/91.0.4472.101/chromedriver
+11:30:08,583  INFO GoogleHomePage:25 - Serach keyword entered.
+11:30:18,377  INFO GoogleHomePage:31 - Clicked on search button.
+11:32:55,668  INFO WebDriverManager:575 - Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+11:32:55,681  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as /Users/vivek/.m2/repository/webdriver/chromedriver/mac64/91.0.4472.101/chromedriver
+11:32:59,299  INFO GoogleHomePage:25 - Serach keyword entered.
+11:33:08,619  INFO GoogleHomePage:31 - Clicked on search button.
+11:34:05,385  INFO WebDriverManager:575 - Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+11:34:05,398  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as /Users/vivek/.m2/repository/webdriver/chromedriver/mac64/91.0.4472.101/chromedriver
+11:34:08,443  INFO GoogleHomePage:25 - Serach keyword entered.
+11:34:17,869  INFO GoogleHomePage:31 - Clicked on search button.
+11:34:59,156  INFO WebDriverManager:575 - Using chromedriver 91.0.4472.101 (since Google Chrome 91 is installed in your machine)
+11:34:59,168  INFO WebDriverManager:1050 - Exporting webdriver.chrome.driver as /Users/vivek/.m2/repository/webdriver/chromedriver/mac64/91.0.4472.101/chromedriver
+11:35:01,927  INFO GoogleHomePage:25 - Serach keyword entered.
+11:35:11,147  INFO GoogleHomePage:31 - Clicked on search button.
